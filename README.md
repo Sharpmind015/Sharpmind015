@@ -1,6 +1,6 @@
 ![Web Dev-Blog](https://user-images.githubusercontent.com/36773145/122415747-080daa00-cf3d-11eb-9d05-06fe0848f309.png)
 ### Hi there 👋
-### I'm Akindeji, a Javascript developer who focuses on react and redux to build pixel perfect, accessible products.
+ I'm Akindeji, a Javascript developer who focuses on react and redux to build pixel perfect, accessible products.
 
 ## Technologies and Tools:
 <p align="left">
