@@ -19,8 +19,11 @@
 - 🌱 I’m currently learning redux
 - 👯 I’m looking to collaborate on creative projects
  
- You can connect with me on:
-- LinkedIn &#128084; : [linkedin.com/in/ayedun-akindeji-b44218162/](https://www.linkedin.com/in/ayedun-akindeji-b44218162/)
+You can connect with me on:
+- <a href="https://www.linkedin.com/in/ayedun-akindeji-b44218162/">LinkedIn &#128084;</a>
+- <a href="https://twitter.com/deyjhi01?s=09">Twitter &#128038;</a>
+- <a href="akindejioluwaseun015@gmail.com">Mail &#9993;</a>
+- LinkedIn &#128084; :  [linkedin.com/in/ayedun-akindeji-b44218162/](https://www.linkedin.com/in/ayedun-akindeji-b44218162/)
 - Twitter &#128038; : [@deyjhi01](https://twitter.com/deyjhi01?s=09)
 - Mail &#9993; : akindejioluwaseun015@gmail.com
 
