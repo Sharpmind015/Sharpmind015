@@ -24,3 +24,4 @@ You can connect with me on:
 - <a target="_blank" href="https://twitter.com/deyjhi01?s=09">Twitter &#128038;</a>
 - <a target="_blank" href="akindejioluwaseun015@gmail.com">Mail &#9993;</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharpmind015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
