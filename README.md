@@ -26,4 +26,3 @@ You can connect with me on:
 
  ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharpmind015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Sharpmind015's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sharpmind015)](https://github.com/anuraghazra/github-readme-stats)
