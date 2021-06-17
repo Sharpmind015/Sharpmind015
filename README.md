@@ -18,3 +18,10 @@
 
 - 🌱 I’m currently learning redux
 - 👯 I’m looking to collaborate on creative projects
+  - You can connect with me on 
+
+- LinkedIn: [linkedin.com/in/ayedun-akindeji-b44218162/](https://www.linkedin.com/in/ayedun-akindeji-b44218162/)
+- Twitter &#128038; : [@deyjhi01](https://twitter.com/deyjhi01?s=09)
+- Mail &#9993; : akindejioluwaseun015@gmail.com
+
+&nbsp;
