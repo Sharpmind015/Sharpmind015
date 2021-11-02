@@ -2,7 +2,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Sharpmind015)
 <br/>
- I'm Akindeji, a Javascript developer who focuses on react and scss to build pixel perfect, accessible products.
+ I'm Michael, a Javascript developer who focuses on react and scss to build pixel perfect, accessible products.
 
 ## Technologies and Tools:
 <p align="left">
